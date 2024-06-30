@@ -1,0 +1,35 @@
+# Archivos y directorios generados por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Archivos y directorios de IDE
+/.idea/
+/.vs/
+/.vscode/
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Archivos y directorios de Unity
+[Aa]ssets/[Aa]ssetStoreTools*
+[Aa]ssets/[Pp]lugins/Editor/JetBrains*
+[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Archivos y directorios específicos del proyecto
+sysinfo.txt
